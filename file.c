@@ -19,7 +19,7 @@ int main()
          min=arr[z];
 
         if (max<arr[z])
-            max=arr[z];
+            (max=arr[z]);
 
     }
     printf("max : %d \n",max);
