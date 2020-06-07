@@ -16,7 +16,7 @@ int main()
     for (int z=1;z<n;z++)
     {
         if (min>arr[z])
-            min=arr[z];
+         min=arr[z];
 
         if (max<arr[z])
             max=arr[z];
